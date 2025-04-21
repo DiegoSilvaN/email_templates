@@ -1,0 +1,12 @@
+<mjml>
+  <mj-body background-color="#fafafa">
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-image width="600px" src="https://via.placeholder.com/600x200" alt="Promo" />
+        <mj-text font-size="18px" color="#333333" font-weight="bold">50% de descuento por tiempo limitado</mj-text>
+        <mj-text font-size="14px" color="#666666">Aprovecha esta oferta exclusiva válida hasta el domingo.</mj-text>
+        <mj-button background-color="#28a745" href="#">Obtener Descuento</mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

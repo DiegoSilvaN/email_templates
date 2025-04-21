@@ -1,0 +1,12 @@
+<mjml>
+  <mj-body background-color="#f0f0f0">
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-image width="100px" src="https://via.placeholder.com/100x50" alt="Logo" />
+        <mj-text font-size="20px" font-family="Helvetica" color="#333333" font-weight="bold">¡Bienvenido a Nuestra Plataforma!</mj-text>
+        <mj-text font-size="16px" color="#555555">Gracias por registrarte. Estamos felices de tenerte a bordo. Haz clic abajo para comenzar.</mj-text>
+        <mj-button background-color="#007bff" color="#ffffff" href="#">Empezar</mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
